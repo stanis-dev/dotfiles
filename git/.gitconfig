@@ -1,3 +1,5 @@
 [user]
 	name = stan
 	email = stanis.samisco@gmail.com
+[init]
+	defaultBranch = main
